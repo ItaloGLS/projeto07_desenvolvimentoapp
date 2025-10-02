@@ -38,7 +38,5 @@ O app foi feito para exercitar:
 
 ---
 
----
-
 ## 👨‍💻 Autor  
 Projeto desenvolvido por mim como parte das atividades de aprendizado em **Android com Kotlin**.  
