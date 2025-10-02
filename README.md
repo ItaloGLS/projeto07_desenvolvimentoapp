@@ -38,9 +38,6 @@ O app foi feito para exercitar:
 
 ---
 
-## 📸 Demonstração  
-*(Aqui você pode adicionar prints do app rodando — tela inicial, cadastro de produto/usuário, listagem etc.)*  
-
 ---
 
 ## 👨‍💻 Autor  
